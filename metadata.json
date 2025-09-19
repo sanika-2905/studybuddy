@@ -1,0 +1,5 @@
+{
+  "name": "Study Buddy AI Platform",
+  "description": "An AI-powered web application to help students find compatible study partners, access intelligent academic assistance, and collaborate securely. Features include an AI chatbot, fuzzy logic-based partner matching, and a secure interface.",
+  "requestFramePermissions": []
+}
